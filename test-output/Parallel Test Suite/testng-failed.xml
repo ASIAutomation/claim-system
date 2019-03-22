@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite thread-count="-1" name="Failed suite [Parallel Test Suite]" guice-stage="DEVELOPMENT" verbose="5">
+  <test name="Test1(failed)" verbose="5">
+    <classes>
+      <class name="Automation.Claims.Claims_Contact_Assist_RunTest">
+        <methods>
+          <include name="RunClaims_Contact_Assis2"/>
+          <include name="RunClaims_Contact_Assist1"/>
+          <include name="EndBatch"/>
+          <include name="SetUp"/>
+        </methods>
+      </class> <!-- Automation.Claims.Claims_Contact_Assist_RunTest -->
+    </classes>
+  </test> <!-- Test1(failed) -->
+</suite> <!-- Failed suite [Parallel Test Suite] -->

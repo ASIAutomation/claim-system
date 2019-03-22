@@ -1,0 +1,1202 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="11" passed="11">
+  <reporter-output>
+    <line>
+      <![CDATA[=================================== Starting Serenget Claims Batch ====================================]]>
+    </line>
+    <line>
+      <![CDATA[Creating object of Chrome]]>
+    </line>
+    <line>
+      <![CDATA[Chrome object created]]>
+    </line>
+    <line>
+      <![CDATA[Navigating to https://claims.americanstrategic.com/Home]]>
+    </line>
+    <line>
+      <![CDATA[Entered username into Claims Login]]>
+    </line>
+    <line>
+      <![CDATA[Entered password into Claims Login]]>
+    </line>
+    <line>
+      <![CDATA[Logged into the Claims System]]>
+    </line>
+    <line>
+      <![CDATA[Navigating to https://claims.americanstrategic.com/Dashboard/Analytics/Home]]>
+    </line>
+    <line>
+      <![CDATA[Navigating to https://claims.americanstrategic.com/ClaimEntry/Search/?ClaimType=existing]]>
+    </line>
+    <line>
+      <![CDATA[============================== Starting Case 2 ==============================]]>
+    </line>
+    <line>
+      <![CDATA[Entered Claim Number: 495916]]>
+    </line>
+    <line>
+      <![CDATA[Clicked the "Lookup" button on the Claim Lookup Page]]>
+    </line>
+    <line>
+      <![CDATA[Clicked New Entry]]>
+    </line>
+    <line>
+      <![CDATA[Subject Matter: Legal Invoices Recd Selected]]>
+    </line>
+    <line>
+      <![CDATA[Clicked Save]]>
+    </line>
+    <line>
+      <![CDATA[Clicked Policy Link]]>
+    </line>
+    <line>
+      <![CDATA[Clicked Select File on 'Images' Page]]>
+    </line>
+    <line>
+      <![CDATA[Clicked Upload on 'Images' page]]>
+    </line>
+    <line>
+      <![CDATA[=== uploaded file name: Butler Pappas - 314547.pdf===]]>
+    </line>
+    <line>
+      <![CDATA[=== Check Successful ===]]>
+    </line>
+    <line>
+      <![CDATA[Navigating to https://claims.americanstrategic.com/ClaimEntry/Search/?ClaimType=existing]]>
+    </line>
+    <line>
+      <![CDATA[============================== Starting Case 3 ==============================]]>
+    </line>
+    <line>
+      <![CDATA[Entered Claim Number: 503877]]>
+    </line>
+    <line>
+      <![CDATA[Clicked the "Lookup" button on the Claim Lookup Page]]>
+    </line>
+    <line>
+      <![CDATA[Clicked New Entry]]>
+    </line>
+    <line>
+      <![CDATA[Subject Matter: Legal Invoices Recd Selected]]>
+    </line>
+    <line>
+      <![CDATA[Clicked Save]]>
+    </line>
+    <line>
+      <![CDATA[Clicked Policy Link]]>
+    </line>
+    <line>
+      <![CDATA[Clicked Select File on 'Images' Page]]>
+    </line>
+    <line>
+      <![CDATA[Clicked Upload on 'Images' page]]>
+    </line>
+    <line>
+      <![CDATA[=== uploaded file name: Butler Pappas - 313507.pdf===]]>
+    </line>
+    <line>
+      <![CDATA[=== Check Successful ===]]>
+    </line>
+    <line>
+      <![CDATA[Navigating to https://claims.americanstrategic.com/ClaimEntry/Search/?ClaimType=existing]]>
+    </line>
+    <line>
+      <![CDATA[============================== Starting Case 4 ==============================]]>
+    </line>
+    <line>
+      <![CDATA[Entered Claim Number: 507976]]>
+    </line>
+    <line>
+      <![CDATA[Clicked the "Lookup" button on the Claim Lookup Page]]>
+    </line>
+    <line>
+      <![CDATA[Clicked New Entry]]>
+    </line>
+    <line>
+      <![CDATA[Subject Matter: Legal Invoices Recd Selected]]>
+    </line>
+    <line>
+      <![CDATA[Clicked Save]]>
+    </line>
+    <line>
+      <![CDATA[Clicked Policy Link]]>
+    </line>
+    <line>
+      <![CDATA[Clicked Select File on 'Images' Page]]>
+    </line>
+    <line>
+      <![CDATA[Clicked Upload on 'Images' page]]>
+    </line>
+    <line>
+      <![CDATA[=== uploaded file name: Butler Pappas - 314660.pdf===]]>
+    </line>
+    <line>
+      <![CDATA[=== Check Successful ===]]>
+    </line>
+    <line>
+      <![CDATA[Navigating to https://claims.americanstrategic.com/ClaimEntry/Search/?ClaimType=existing]]>
+    </line>
+    <line>
+      <![CDATA[============================== Starting Case 5 ==============================]]>
+    </line>
+    <line>
+      <![CDATA[Entered Claim Number: 508790]]>
+    </line>
+    <line>
+      <![CDATA[Clicked the "Lookup" button on the Claim Lookup Page]]>
+    </line>
+    <line>
+      <![CDATA[Clicked New Entry]]>
+    </line>
+    <line>
+      <![CDATA[Subject Matter: Legal Invoices Recd Selected]]>
+    </line>
+    <line>
+      <![CDATA[Clicked Save]]>
+    </line>
+    <line>
+      <![CDATA[Clicked Policy Link]]>
+    </line>
+    <line>
+      <![CDATA[Clicked Select File on 'Images' Page]]>
+    </line>
+    <line>
+      <![CDATA[Clicked Upload on 'Images' page]]>
+    </line>
+    <line>
+      <![CDATA[=== uploaded file name: Butler Pappas - 314658.pdf===]]>
+    </line>
+    <line>
+      <![CDATA[=== Check Successful ===]]>
+    </line>
+    <line>
+      <![CDATA[Navigating to https://claims.americanstrategic.com/ClaimEntry/Search/?ClaimType=existing]]>
+    </line>
+    <line>
+      <![CDATA[============================== Starting Case 6 ==============================]]>
+    </line>
+    <line>
+      <![CDATA[Entered Claim Number: 509699]]>
+    </line>
+    <line>
+      <![CDATA[Clicked the "Lookup" button on the Claim Lookup Page]]>
+    </line>
+    <line>
+      <![CDATA[Clicked New Entry]]>
+    </line>
+    <line>
+      <![CDATA[Subject Matter: Legal Invoices Recd Selected]]>
+    </line>
+    <line>
+      <![CDATA[Clicked Save]]>
+    </line>
+    <line>
+      <![CDATA[Clicked Policy Link]]>
+    </line>
+    <line>
+      <![CDATA[Clicked Select File on 'Images' Page]]>
+    </line>
+    <line>
+      <![CDATA[Clicked Upload on 'Images' page]]>
+    </line>
+    <line>
+      <![CDATA[=== uploaded file name: Butler Pappas - 313508.pdf===]]>
+    </line>
+    <line>
+      <![CDATA[=== Check Successful ===]]>
+    </line>
+    <line>
+      <![CDATA[Navigating to https://claims.americanstrategic.com/ClaimEntry/Search/?ClaimType=existing]]>
+    </line>
+    <line>
+      <![CDATA[============================== Starting Case 7 ==============================]]>
+    </line>
+    <line>
+      <![CDATA[Entered Claim Number: 511136]]>
+    </line>
+    <line>
+      <![CDATA[Clicked the "Lookup" button on the Claim Lookup Page]]>
+    </line>
+    <line>
+      <![CDATA[Clicked New Entry]]>
+    </line>
+    <line>
+      <![CDATA[Subject Matter: Legal Invoices Recd Selected]]>
+    </line>
+    <line>
+      <![CDATA[Clicked Save]]>
+    </line>
+    <line>
+      <![CDATA[Clicked Policy Link]]>
+    </line>
+    <line>
+      <![CDATA[Clicked Select File on 'Images' Page]]>
+    </line>
+    <line>
+      <![CDATA[Clicked Upload on 'Images' page]]>
+    </line>
+    <line>
+      <![CDATA[=== uploaded file name: Butler Pappas - 313522.pdf===]]>
+    </line>
+    <line>
+      <![CDATA[=== Check Successful ===]]>
+    </line>
+    <line>
+      <![CDATA[Navigating to https://claims.americanstrategic.com/ClaimEntry/Search/?ClaimType=existing]]>
+    </line>
+    <line>
+      <![CDATA[============================== Starting Case 8 ==============================]]>
+    </line>
+    <line>
+      <![CDATA[Entered Claim Number: 517433]]>
+    </line>
+    <line>
+      <![CDATA[Clicked the "Lookup" button on the Claim Lookup Page]]>
+    </line>
+    <line>
+      <![CDATA[Clicked New Entry]]>
+    </line>
+    <line>
+      <![CDATA[Subject Matter: Legal Invoices Recd Selected]]>
+    </line>
+    <line>
+      <![CDATA[Clicked Save]]>
+    </line>
+    <line>
+      <![CDATA[Clicked Policy Link]]>
+    </line>
+    <line>
+      <![CDATA[Clicked Select File on 'Images' Page]]>
+    </line>
+    <line>
+      <![CDATA[Clicked Upload on 'Images' page]]>
+    </line>
+    <line>
+      <![CDATA[=== uploaded file name: Butler Pappas - 313650.pdf===]]>
+    </line>
+    <line>
+      <![CDATA[=== Check Successful ===]]>
+    </line>
+    <line>
+      <![CDATA[Navigating to https://claims.americanstrategic.com/ClaimEntry/Search/?ClaimType=existing]]>
+    </line>
+    <line>
+      <![CDATA[============================== Starting Case 9 ==============================]]>
+    </line>
+    <line>
+      <![CDATA[Entered Claim Number: 519365]]>
+    </line>
+    <line>
+      <![CDATA[Clicked the "Lookup" button on the Claim Lookup Page]]>
+    </line>
+    <line>
+      <![CDATA[Clicked New Entry]]>
+    </line>
+    <line>
+      <![CDATA[Subject Matter: Legal Invoices Recd Selected]]>
+    </line>
+    <line>
+      <![CDATA[Clicked Save]]>
+    </line>
+    <line>
+      <![CDATA[Clicked Policy Link]]>
+    </line>
+    <line>
+      <![CDATA[Clicked Select File on 'Images' Page]]>
+    </line>
+    <line>
+      <![CDATA[Clicked Upload on 'Images' page]]>
+    </line>
+    <line>
+      <![CDATA[=== uploaded file name: Butler Pappas - 313515.pdf===]]>
+    </line>
+    <line>
+      <![CDATA[=== Check Successful ===]]>
+    </line>
+    <line>
+      <![CDATA[Navigating to https://claims.americanstrategic.com/ClaimEntry/Search/?ClaimType=existing]]>
+    </line>
+    <line>
+      <![CDATA[============================== Starting Case 10 ==============================]]>
+    </line>
+    <line>
+      <![CDATA[Entered Claim Number: 520438]]>
+    </line>
+    <line>
+      <![CDATA[Clicked the "Lookup" button on the Claim Lookup Page]]>
+    </line>
+    <line>
+      <![CDATA[Clicked New Entry]]>
+    </line>
+    <line>
+      <![CDATA[Subject Matter: Legal Invoices Recd Selected]]>
+    </line>
+    <line>
+      <![CDATA[Clicked Save]]>
+    </line>
+    <line>
+      <![CDATA[Clicked Policy Link]]>
+    </line>
+    <line>
+      <![CDATA[Clicked Select File on 'Images' Page]]>
+    </line>
+    <line>
+      <![CDATA[Clicked Upload on 'Images' page]]>
+    </line>
+    <line>
+      <![CDATA[=========== Case 10 failed to upload pdf file: Butler Pappas - 308017 ===========]]>
+    </line>
+    <line>
+      <![CDATA[Navigating to https://claims.americanstrategic.com/ClaimEntry/Search/?ClaimType=existing]]>
+    </line>
+    <line>
+      <![CDATA[============================== Starting Case 11 ==============================]]>
+    </line>
+    <line>
+      <![CDATA[Entered Claim Number: 538700]]>
+    </line>
+    <line>
+      <![CDATA[Clicked the "Lookup" button on the Claim Lookup Page]]>
+    </line>
+    <line>
+      <![CDATA[Clicked New Entry]]>
+    </line>
+    <line>
+      <![CDATA[Subject Matter: Legal Invoices Recd Selected]]>
+    </line>
+    <line>
+      <![CDATA[Clicked Save]]>
+    </line>
+    <line>
+      <![CDATA[Clicked Policy Link]]>
+    </line>
+    <line>
+      <![CDATA[Clicked Select File on 'Images' Page]]>
+    </line>
+    <line>
+      <![CDATA[Clicked Upload on 'Images' page]]>
+    </line>
+    <line>
+      <![CDATA[=== uploaded file name: Butler Pappas - 314662.pdf===]]>
+    </line>
+    <line>
+      <![CDATA[=== Check Successful ===]]>
+    </line>
+    <line>
+      <![CDATA[Navigating to https://claims.americanstrategic.com/ClaimEntry/Search/?ClaimType=existing]]>
+    </line>
+    <line>
+      <![CDATA[============================== Starting Case 12 ==============================]]>
+    </line>
+    <line>
+      <![CDATA[Entered Claim Number: 565684]]>
+    </line>
+    <line>
+      <![CDATA[Clicked the "Lookup" button on the Claim Lookup Page]]>
+    </line>
+    <line>
+      <![CDATA[Clicked New Entry]]>
+    </line>
+    <line>
+      <![CDATA[Subject Matter: Legal Invoices Recd Selected]]>
+    </line>
+    <line>
+      <![CDATA[Clicked Save]]>
+    </line>
+    <line>
+      <![CDATA[Clicked Policy Link]]>
+    </line>
+    <line>
+      <![CDATA[Clicked Select File on 'Images' Page]]>
+    </line>
+    <line>
+      <![CDATA[Clicked Upload on 'Images' page]]>
+    </line>
+    <line>
+      <![CDATA[=== uploaded file name: Butler Pappas - 313523.pdf===]]>
+    </line>
+    <line>
+      <![CDATA[=== Check Successful ===]]>
+    </line>
+    <line>
+      <![CDATA[=================================== End Hancock Claims Batch =========================================]]>
+    </line>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="376843" started-at="2019-03-22T12:27:05Z" finished-at="2019-03-22T12:33:22Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="376843" started-at="2019-03-22T12:27:05Z" finished-at="2019-03-22T12:33:22Z">
+      <class name="Automation.Claims.SerengetTest">
+        <test-method status="PASS" signature="SetUp()[pri:0, instance:Automation.Claims.SerengetTest@f4168b8]" name="SetUp" is-config="true" duration-ms="15624" started-at="2019-03-22T08:27:05Z" finished-at="2019-03-22T08:27:21Z">
+          <reporter-output>
+            <line>
+              <![CDATA[=================================== Starting Serenget Claims Batch ====================================]]>
+            </line>
+            <line>
+              <![CDATA[Creating object of Chrome]]>
+            </line>
+            <line>
+              <![CDATA[Chrome object created]]>
+            </line>
+            <line>
+              <![CDATA[Navigating to https://claims.americanstrategic.com/Home]]>
+            </line>
+            <line>
+              <![CDATA[Entered username into Claims Login]]>
+            </line>
+            <line>
+              <![CDATA[Entered password into Claims Login]]>
+            </line>
+            <line>
+              <![CDATA[Logged into the Claims System]]>
+            </line>
+            <line>
+              <![CDATA[Navigating to https://claims.americanstrategic.com/Dashboard/Analytics/Home]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- SetUp -->
+        <test-method status="PASS" signature="Run_Hancock_Data(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:Automation.Claims.SerengetTest@f4168b8]" name="Run_Hancock_Data" duration-ms="33663" started-at="2019-03-22T08:27:22Z" data-provider="Claims_System_Master" finished-at="2019-03-22T08:27:56Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Case 2]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[495916]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[314547]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[1557.50]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[Butler Pappas - 314547]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[Navigating to https://claims.americanstrategic.com/ClaimEntry/Search/?ClaimType=existing]]>
+            </line>
+            <line>
+              <![CDATA[============================== Starting Case 2 ==============================]]>
+            </line>
+            <line>
+              <![CDATA[Entered Claim Number: 495916]]>
+            </line>
+            <line>
+              <![CDATA[Clicked the "Lookup" button on the Claim Lookup Page]]>
+            </line>
+            <line>
+              <![CDATA[Clicked New Entry]]>
+            </line>
+            <line>
+              <![CDATA[Subject Matter: Legal Invoices Recd Selected]]>
+            </line>
+            <line>
+              <![CDATA[Clicked Save]]>
+            </line>
+            <line>
+              <![CDATA[Clicked Policy Link]]>
+            </line>
+            <line>
+              <![CDATA[Clicked Select File on 'Images' Page]]>
+            </line>
+            <line>
+              <![CDATA[Clicked Upload on 'Images' page]]>
+            </line>
+            <line>
+              <![CDATA[=== uploaded file name: Butler Pappas - 314547.pdf===]]>
+            </line>
+            <line>
+              <![CDATA[=== Check Successful ===]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- Run_Hancock_Data -->
+        <test-method status="PASS" signature="Run_Hancock_Data(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:Automation.Claims.SerengetTest@f4168b8]" name="Run_Hancock_Data" duration-ms="32193" started-at="2019-03-22T08:27:56Z" data-provider="Claims_System_Master" finished-at="2019-03-22T08:28:28Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Case 3]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[503877]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[313507]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[1752.50]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[Butler Pappas - 313507]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[Navigating to https://claims.americanstrategic.com/ClaimEntry/Search/?ClaimType=existing]]>
+            </line>
+            <line>
+              <![CDATA[============================== Starting Case 3 ==============================]]>
+            </line>
+            <line>
+              <![CDATA[Entered Claim Number: 503877]]>
+            </line>
+            <line>
+              <![CDATA[Clicked the "Lookup" button on the Claim Lookup Page]]>
+            </line>
+            <line>
+              <![CDATA[Clicked New Entry]]>
+            </line>
+            <line>
+              <![CDATA[Subject Matter: Legal Invoices Recd Selected]]>
+            </line>
+            <line>
+              <![CDATA[Clicked Save]]>
+            </line>
+            <line>
+              <![CDATA[Clicked Policy Link]]>
+            </line>
+            <line>
+              <![CDATA[Clicked Select File on 'Images' Page]]>
+            </line>
+            <line>
+              <![CDATA[Clicked Upload on 'Images' page]]>
+            </line>
+            <line>
+              <![CDATA[=== uploaded file name: Butler Pappas - 313507.pdf===]]>
+            </line>
+            <line>
+              <![CDATA[=== Check Successful ===]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- Run_Hancock_Data -->
+        <test-method status="PASS" signature="Run_Hancock_Data(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:Automation.Claims.SerengetTest@f4168b8]" name="Run_Hancock_Data" duration-ms="32820" started-at="2019-03-22T08:28:28Z" data-provider="Claims_System_Master" finished-at="2019-03-22T08:29:01Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Case 4]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[507976]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[314660]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[561.50]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[Butler Pappas - 314660]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[Navigating to https://claims.americanstrategic.com/ClaimEntry/Search/?ClaimType=existing]]>
+            </line>
+            <line>
+              <![CDATA[============================== Starting Case 4 ==============================]]>
+            </line>
+            <line>
+              <![CDATA[Entered Claim Number: 507976]]>
+            </line>
+            <line>
+              <![CDATA[Clicked the "Lookup" button on the Claim Lookup Page]]>
+            </line>
+            <line>
+              <![CDATA[Clicked New Entry]]>
+            </line>
+            <line>
+              <![CDATA[Subject Matter: Legal Invoices Recd Selected]]>
+            </line>
+            <line>
+              <![CDATA[Clicked Save]]>
+            </line>
+            <line>
+              <![CDATA[Clicked Policy Link]]>
+            </line>
+            <line>
+              <![CDATA[Clicked Select File on 'Images' Page]]>
+            </line>
+            <line>
+              <![CDATA[Clicked Upload on 'Images' page]]>
+            </line>
+            <line>
+              <![CDATA[=== uploaded file name: Butler Pappas - 314660.pdf===]]>
+            </line>
+            <line>
+              <![CDATA[=== Check Successful ===]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- Run_Hancock_Data -->
+        <test-method status="PASS" signature="Run_Hancock_Data(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:Automation.Claims.SerengetTest@f4168b8]" name="Run_Hancock_Data" duration-ms="33402" started-at="2019-03-22T08:29:01Z" data-provider="Claims_System_Master" finished-at="2019-03-22T08:29:34Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Case 5]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[508790]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[314658]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[409.00]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[Butler Pappas - 314658]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[Navigating to https://claims.americanstrategic.com/ClaimEntry/Search/?ClaimType=existing]]>
+            </line>
+            <line>
+              <![CDATA[============================== Starting Case 5 ==============================]]>
+            </line>
+            <line>
+              <![CDATA[Entered Claim Number: 508790]]>
+            </line>
+            <line>
+              <![CDATA[Clicked the "Lookup" button on the Claim Lookup Page]]>
+            </line>
+            <line>
+              <![CDATA[Clicked New Entry]]>
+            </line>
+            <line>
+              <![CDATA[Subject Matter: Legal Invoices Recd Selected]]>
+            </line>
+            <line>
+              <![CDATA[Clicked Save]]>
+            </line>
+            <line>
+              <![CDATA[Clicked Policy Link]]>
+            </line>
+            <line>
+              <![CDATA[Clicked Select File on 'Images' Page]]>
+            </line>
+            <line>
+              <![CDATA[Clicked Upload on 'Images' page]]>
+            </line>
+            <line>
+              <![CDATA[=== uploaded file name: Butler Pappas - 314658.pdf===]]>
+            </line>
+            <line>
+              <![CDATA[=== Check Successful ===]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- Run_Hancock_Data -->
+        <test-method status="PASS" signature="Run_Hancock_Data(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:Automation.Claims.SerengetTest@f4168b8]" name="Run_Hancock_Data" duration-ms="32131" started-at="2019-03-22T08:29:34Z" data-provider="Claims_System_Master" finished-at="2019-03-22T08:30:06Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Case 6]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[509699]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[313508]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[1781.00]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[Butler Pappas - 313508]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[Navigating to https://claims.americanstrategic.com/ClaimEntry/Search/?ClaimType=existing]]>
+            </line>
+            <line>
+              <![CDATA[============================== Starting Case 6 ==============================]]>
+            </line>
+            <line>
+              <![CDATA[Entered Claim Number: 509699]]>
+            </line>
+            <line>
+              <![CDATA[Clicked the "Lookup" button on the Claim Lookup Page]]>
+            </line>
+            <line>
+              <![CDATA[Clicked New Entry]]>
+            </line>
+            <line>
+              <![CDATA[Subject Matter: Legal Invoices Recd Selected]]>
+            </line>
+            <line>
+              <![CDATA[Clicked Save]]>
+            </line>
+            <line>
+              <![CDATA[Clicked Policy Link]]>
+            </line>
+            <line>
+              <![CDATA[Clicked Select File on 'Images' Page]]>
+            </line>
+            <line>
+              <![CDATA[Clicked Upload on 'Images' page]]>
+            </line>
+            <line>
+              <![CDATA[=== uploaded file name: Butler Pappas - 313508.pdf===]]>
+            </line>
+            <line>
+              <![CDATA[=== Check Successful ===]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- Run_Hancock_Data -->
+        <test-method status="PASS" signature="Run_Hancock_Data(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:Automation.Claims.SerengetTest@f4168b8]" name="Run_Hancock_Data" duration-ms="33843" started-at="2019-03-22T08:30:06Z" data-provider="Claims_System_Master" finished-at="2019-03-22T08:30:40Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Case 7]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[511136]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[313522]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[1040.00]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[Butler Pappas - 313522]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[Navigating to https://claims.americanstrategic.com/ClaimEntry/Search/?ClaimType=existing]]>
+            </line>
+            <line>
+              <![CDATA[============================== Starting Case 7 ==============================]]>
+            </line>
+            <line>
+              <![CDATA[Entered Claim Number: 511136]]>
+            </line>
+            <line>
+              <![CDATA[Clicked the "Lookup" button on the Claim Lookup Page]]>
+            </line>
+            <line>
+              <![CDATA[Clicked New Entry]]>
+            </line>
+            <line>
+              <![CDATA[Subject Matter: Legal Invoices Recd Selected]]>
+            </line>
+            <line>
+              <![CDATA[Clicked Save]]>
+            </line>
+            <line>
+              <![CDATA[Clicked Policy Link]]>
+            </line>
+            <line>
+              <![CDATA[Clicked Select File on 'Images' Page]]>
+            </line>
+            <line>
+              <![CDATA[Clicked Upload on 'Images' page]]>
+            </line>
+            <line>
+              <![CDATA[=== uploaded file name: Butler Pappas - 313522.pdf===]]>
+            </line>
+            <line>
+              <![CDATA[=== Check Successful ===]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- Run_Hancock_Data -->
+        <test-method status="PASS" signature="Run_Hancock_Data(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:Automation.Claims.SerengetTest@f4168b8]" name="Run_Hancock_Data" duration-ms="32920" started-at="2019-03-22T08:30:40Z" data-provider="Claims_System_Master" finished-at="2019-03-22T08:31:13Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Case 8]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[517433]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[313650]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[519.50]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[Butler Pappas - 313650]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[Navigating to https://claims.americanstrategic.com/ClaimEntry/Search/?ClaimType=existing]]>
+            </line>
+            <line>
+              <![CDATA[============================== Starting Case 8 ==============================]]>
+            </line>
+            <line>
+              <![CDATA[Entered Claim Number: 517433]]>
+            </line>
+            <line>
+              <![CDATA[Clicked the "Lookup" button on the Claim Lookup Page]]>
+            </line>
+            <line>
+              <![CDATA[Clicked New Entry]]>
+            </line>
+            <line>
+              <![CDATA[Subject Matter: Legal Invoices Recd Selected]]>
+            </line>
+            <line>
+              <![CDATA[Clicked Save]]>
+            </line>
+            <line>
+              <![CDATA[Clicked Policy Link]]>
+            </line>
+            <line>
+              <![CDATA[Clicked Select File on 'Images' Page]]>
+            </line>
+            <line>
+              <![CDATA[Clicked Upload on 'Images' page]]>
+            </line>
+            <line>
+              <![CDATA[=== uploaded file name: Butler Pappas - 313650.pdf===]]>
+            </line>
+            <line>
+              <![CDATA[=== Check Successful ===]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- Run_Hancock_Data -->
+        <test-method status="PASS" signature="Run_Hancock_Data(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:Automation.Claims.SerengetTest@f4168b8]" name="Run_Hancock_Data" duration-ms="32932" started-at="2019-03-22T08:31:13Z" data-provider="Claims_System_Master" finished-at="2019-03-22T08:31:46Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Case 9]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[519365]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[313515]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[1220.00]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[Butler Pappas - 313515]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[Navigating to https://claims.americanstrategic.com/ClaimEntry/Search/?ClaimType=existing]]>
+            </line>
+            <line>
+              <![CDATA[============================== Starting Case 9 ==============================]]>
+            </line>
+            <line>
+              <![CDATA[Entered Claim Number: 519365]]>
+            </line>
+            <line>
+              <![CDATA[Clicked the "Lookup" button on the Claim Lookup Page]]>
+            </line>
+            <line>
+              <![CDATA[Clicked New Entry]]>
+            </line>
+            <line>
+              <![CDATA[Subject Matter: Legal Invoices Recd Selected]]>
+            </line>
+            <line>
+              <![CDATA[Clicked Save]]>
+            </line>
+            <line>
+              <![CDATA[Clicked Policy Link]]>
+            </line>
+            <line>
+              <![CDATA[Clicked Select File on 'Images' Page]]>
+            </line>
+            <line>
+              <![CDATA[Clicked Upload on 'Images' page]]>
+            </line>
+            <line>
+              <![CDATA[=== uploaded file name: Butler Pappas - 313515.pdf===]]>
+            </line>
+            <line>
+              <![CDATA[=== Check Successful ===]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- Run_Hancock_Data -->
+        <test-method status="PASS" signature="Run_Hancock_Data(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:Automation.Claims.SerengetTest@f4168b8]" name="Run_Hancock_Data" duration-ms="31188" started-at="2019-03-22T08:31:46Z" data-provider="Claims_System_Master" finished-at="2019-03-22T08:32:17Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Case 10]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[520438]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[308017]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[1639.00]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[Butler Pappas - 308017]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[Navigating to https://claims.americanstrategic.com/ClaimEntry/Search/?ClaimType=existing]]>
+            </line>
+            <line>
+              <![CDATA[============================== Starting Case 10 ==============================]]>
+            </line>
+            <line>
+              <![CDATA[Entered Claim Number: 520438]]>
+            </line>
+            <line>
+              <![CDATA[Clicked the "Lookup" button on the Claim Lookup Page]]>
+            </line>
+            <line>
+              <![CDATA[Clicked New Entry]]>
+            </line>
+            <line>
+              <![CDATA[Subject Matter: Legal Invoices Recd Selected]]>
+            </line>
+            <line>
+              <![CDATA[Clicked Save]]>
+            </line>
+            <line>
+              <![CDATA[Clicked Policy Link]]>
+            </line>
+            <line>
+              <![CDATA[Clicked Select File on 'Images' Page]]>
+            </line>
+            <line>
+              <![CDATA[Clicked Upload on 'Images' page]]>
+            </line>
+            <line>
+              <![CDATA[=========== Case 10 failed to upload pdf file: Butler Pappas - 308017 ===========]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- Run_Hancock_Data -->
+        <test-method status="PASS" signature="Run_Hancock_Data(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:Automation.Claims.SerengetTest@f4168b8]" name="Run_Hancock_Data" duration-ms="31959" started-at="2019-03-22T08:32:17Z" data-provider="Claims_System_Master" finished-at="2019-03-22T08:32:49Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Case 11]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[538700]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[314662]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[131.00]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[Butler Pappas - 314662]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[Navigating to https://claims.americanstrategic.com/ClaimEntry/Search/?ClaimType=existing]]>
+            </line>
+            <line>
+              <![CDATA[============================== Starting Case 11 ==============================]]>
+            </line>
+            <line>
+              <![CDATA[Entered Claim Number: 538700]]>
+            </line>
+            <line>
+              <![CDATA[Clicked the "Lookup" button on the Claim Lookup Page]]>
+            </line>
+            <line>
+              <![CDATA[Clicked New Entry]]>
+            </line>
+            <line>
+              <![CDATA[Subject Matter: Legal Invoices Recd Selected]]>
+            </line>
+            <line>
+              <![CDATA[Clicked Save]]>
+            </line>
+            <line>
+              <![CDATA[Clicked Policy Link]]>
+            </line>
+            <line>
+              <![CDATA[Clicked Select File on 'Images' Page]]>
+            </line>
+            <line>
+              <![CDATA[Clicked Upload on 'Images' page]]>
+            </line>
+            <line>
+              <![CDATA[=== uploaded file name: Butler Pappas - 314662.pdf===]]>
+            </line>
+            <line>
+              <![CDATA[=== Check Successful ===]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- Run_Hancock_Data -->
+        <test-method status="PASS" signature="Run_Hancock_Data(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:Automation.Claims.SerengetTest@f4168b8]" name="Run_Hancock_Data" duration-ms="32160" started-at="2019-03-22T08:32:49Z" data-provider="Claims_System_Master" finished-at="2019-03-22T08:33:21Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Case 12]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[565684]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[313523]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[1254.00]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[Butler Pappas - 313523]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[Navigating to https://claims.americanstrategic.com/ClaimEntry/Search/?ClaimType=existing]]>
+            </line>
+            <line>
+              <![CDATA[============================== Starting Case 12 ==============================]]>
+            </line>
+            <line>
+              <![CDATA[Entered Claim Number: 565684]]>
+            </line>
+            <line>
+              <![CDATA[Clicked the "Lookup" button on the Claim Lookup Page]]>
+            </line>
+            <line>
+              <![CDATA[Clicked New Entry]]>
+            </line>
+            <line>
+              <![CDATA[Subject Matter: Legal Invoices Recd Selected]]>
+            </line>
+            <line>
+              <![CDATA[Clicked Save]]>
+            </line>
+            <line>
+              <![CDATA[Clicked Policy Link]]>
+            </line>
+            <line>
+              <![CDATA[Clicked Select File on 'Images' Page]]>
+            </line>
+            <line>
+              <![CDATA[Clicked Upload on 'Images' page]]>
+            </line>
+            <line>
+              <![CDATA[=== uploaded file name: Butler Pappas - 313523.pdf===]]>
+            </line>
+            <line>
+              <![CDATA[=== Check Successful ===]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- Run_Hancock_Data -->
+        <test-method status="PASS" signature="EndBatch()[pri:0, instance:Automation.Claims.SerengetTest@f4168b8]" name="EndBatch" is-config="true" duration-ms="1080" started-at="2019-03-22T08:33:21Z" finished-at="2019-03-22T08:33:22Z">
+          <reporter-output>
+            <line>
+              <![CDATA[=================================== End Hancock Claims Batch =========================================]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- EndBatch -->
+      </class> <!-- Automation.Claims.SerengetTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
